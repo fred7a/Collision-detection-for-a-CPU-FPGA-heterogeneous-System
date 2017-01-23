@@ -1,0 +1,2 @@
+# Collision-detection-for-a-CPU-FPGA-heterogeneous-System
+Implementation of a collision detection kernel in Verilog to be used for collision detection algorithms in a CPU-FPGA heterogeneous system. The design implements the Spheres collision detection algorithm implemented on the ODE (Open Dynamics Engine Platform), we also provide benchmarks for testing and comparing the design and the ODE processing speed.
